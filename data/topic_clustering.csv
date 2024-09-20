@@ -1,0 +1,601 @@
+,x,y,topic,cluster
+0,3.960091,-1.5782622,"Mexican-American War, Treaty of Guadalupe Hidalgo, U.S.-Mexico relations, Historical treaties, Territorial cession, Diplomatic negotiations",2
+1,14.750416,-2.9462142,"Declaration of Independence, American history, Founding documents, Colonial America, Revolutionary War",26
+2,-3.251243,5.138157,"Indian Removal, Andrew Jackson, U.S. Congress, Native American history, 19th century American policy, Trail of Tears, Indian Removal Act, U.S. history",7
+3,4.088091,-3.1941946,"Adams-Onis Treaty, U.S.-Spain relations, 19th century treaties, territorial boundaries, diplomatic agreements",2
+4,11.334815,7.711385,"Social Media, Modern History, Impact of Communication Technologies, Digital Communication, Social Justice, Civic Engagement",15
+5,-1.4447869,19.466158,"Frances Willard, Women's rights, Temperance, World's Woman's Christian Temperance Union, National Women's Christian Temperance Union, 1893 World Columbian Exposition",3
+6,19.626442,3.825314,"Compromise of 1850, Slavery, National Expansion, Senate Resolutions, Legislative History, Fugitive Slave Act, California Statehood, Texas Boundary Dispute",5
+7,-11.312501,7.759031,"History of Education, Science Education, 19th Century Education, Physical Forces, Michael Faraday, Scientific Lectures",1
+8,10.961017,18.463346,"Abolitionism, William Lloyd Garrison, The Liberator, 19th Century American History, Social Justice, Historical Documents",17
+9,-8.918581,-5.1255684,"Abigail Adams, John Adams, Historical correspondence, 18th century America, American Revolution",4
+10,23.115084,-0.6867104,"Exodusters, African American migration, Great Plains, historical documents, photographs, newspaper articles, letters, broadside, maps, songs",6
+11,17.183321,-3.7887018,"Whiskey Rebellion, George Washington, Founding Fathers, Presidents, U.S. History",27
+12,13.90628,1.9038974,"Coinage, U.S. Treasury, Legislation, Silver Coins, Gold Coins, Mint Regulations, Legal Tender, Bullion Deposits",19
+13,15.915073,5.5364575,"Progressivism (United States politics), History of the United States, Politics and government, 20th century United States politics",20
+14,9.149386,18.293121,"Abraham Lincoln, Emancipation Proclamation, Civil War, American History, Slavery, Historical Documents",17
+15,-2.1765902,8.148756,"Kublai Khan, Mongol Empire, Christianity, Patriarch election, Cultural exchange, Religious visions, Historical accounts, Trade networks",9
+16,22.353497,4.677488,"Pacific Railway Act, Transcontinental Railroad, Legislation, U.S. History, Railroad Development, Civil War Era",5
+17,-2.874275,3.199091,"Helen Hunt Jackson, A Century of Dishonor, U.S. government, Native American tribes, Indian affairs, historical accounts, treaties, massacres, social justice",7
+18,20.772676,14.907996,"Homestead Strike, Labor Conflicts, William Weihe, Congressional Testimony, Pay Scale Changes, Pinkerton Detectives, Amalgamated Association of Iron and Steel Workers",13
+19,19.221497,14.558017,"American working class, New York City history, Labor movements, 19th century America, Social history",13
+20,-9.099043,-4.6379895,"John Adams, Slavery, Abolitionism, Historical Letters, American History, Quakers, 1801, Political Views",4
+21,-10.8778,6.669942,"Philosophy, Ancient Greece, Anaximenes, Education, History of Science, Early Philosophers, Scientific Thought, Historical Texts",1
+22,5.043108,11.908807,"American Drama, Theater History, Royall Tyler, Cultural Attitudes, 19th Century Literature",14
+23,13.65075,7.003122,"African American history, Labor history, Women's history, Social history, Historical analysis",-1
+24,14.894021,7.6576147,"McClure's Magazine, Periodicals, Historical Publications, American Literature, Intellectual Life",-1
+25,15.584427,6.8321247,"Alexander Saxton, White Republic, Class Politics, Historical Analysis, 1990s Literature",20
+26,-0.88163716,2.1363492,"Carlisle Indian School, Maggie Stands Looking, Indian education, assimilation policies, student experiences, historical letters, Caddo, Oneida, Outing System, Richard Pratt, Indian Helper newspaper",7
+27,-1.1544749,1.6056852,"Zitkala-Sa, Indian boarding schools, Native American experiences, cultural assimilation, childhood memories, education, identity",7
+28,12.694512,-0.07003812,"Federalism, Anti-Federalism, U.S. Constitution, Political Philosophy, Historical Documents",19
+29,14.217402,5.4382033,"Environmental History, Environmental Policy, Primary Sources, History Documents, Legislation, Research Archives",-1
+30,-0.59046257,20.863773,"World War II, Woman's Land Army, Home Front, Agriculture, Women's Roles in War, Historical Photography",3
+31,18.733568,6.559123,"Imperialism, Capitalism, Economic Theory, Monopoly, Banking, Social Class, Historical Analysis",21
+32,14.364775,-2.9113736,"Declaration of Independence, American history, Colonial grievances, Founding documents, Political philosophy",26
+33,4.2559648,-1.1688685,"Mexican-American War, Abraham Lincoln, U.S. History, Political Debates, Texas Annexation, Boundary Disputes",2
+34,16.11254,2.52406,"Election of 1876, Primary sources, Political campaigns, Historical documents, American history, Rutherford B. Hayes, Samuel J. Tilden",-1
+35,9.440642,18.677477,"John Brown, Civil War, Slavery, Historical speeches, American history, Trial and justice",17
+36,-3.6065311,17.212606,"Post-Colonial Studies, African Independence, Violence and Nationalism, All-African People's Conference, Historical Resolutions",8
+37,14.076885,10.774863,"14th Amendment, Civil Rights, U.S. Constitution, Reconstruction, Citizenship, Legal Rights, Historical Context",22
+38,19.245028,4.302617,"Compromise of 1850, Fugitive Slave Act, Slave Trade, U.S. Legislative History, 19th Century American History",5
+39,-5.440774,17.631624,"Christopher Columbus, 1492 Voyage, Transatlantic Trade, Exploration, Colonialism, Native Inhabitants, Historical Accounts",8
+40,13.10018,15.743632,"WPA Slave Narratives, Slavery, Personal Accounts, Historical Experiences, Life on Plantations, Emancipation, African American History",17
+41,14.720311,13.228048,"Supreme Court, Ex Parte Milligan, Habeas Corpus, Military Law, Civil Rights, Legal Proceedings",23
+42,13.74142,18.771069,"Booker T. Washington, Atlanta Compromise, Race relations, Economic cooperation, African American history, Southern United States, 1895 Exposition",17
+43,22.659697,4.7575088,"Central Pacific Railroad, Leland Stanford, Chinese labor, 1865 railroad construction, U.S. history, Labor history",5
+44,11.469847,18.095078,"Harriet Beecher Stowe, Uncle Tom's Cabin, Slavery, Fiction, Political fiction, American literature, 19th century literature",17
+45,12.251843,12.630808,"Jim Crow laws, Segregation, Legal history, Civil rights, American history, Racial discrimination",23
+46,16.461016,-3.1365113,"George Washington, Henry Knox, Shays' Rebellion, U.S. History, Constitutional Convention, Political History, Insurrection, Massachusetts, Federal Government",27
+47,6.862157,0.5802435,"American History, Frontier Thesis, Frederick Jackson Turner, American Democracy, Westward Expansion",12
+48,5.653657,0.06017914,"Manifest Destiny, John L. O'Sullivan, American Expansionism, Texas Annexation, 19th Century American History",12
+49,23.50399,-1.5304369,"James Bridger, Westward Expansion, Oregon Trail, California Trail, Mormon Trail, Trappers and Guides, 19th Century American History",6
+50,-4.4018545,15.76825,"African culture, Religion in West Africa, Slave trade, Colonialism, Personal narratives, Historical accounts, Cultural practices, Environmental impact",8
+51,-1.619926,20.429594,"labor movements, manuscripts, original documents, historical accounts, government archives",-1
+52,-11.172882,8.368688,"Electricity, Magnetism, Scientific Principles, Educational Demonstrations, Physics",1
+53,13.294508,-2.920454,"Thomas Jefferson, Declaration of Independence, American history, Colonial America, Revolutionary War, Founding Fathers",26
+54,3.8984587,-3.6239402,"Adams-Onis Treaty, Treaty of Amity, Territorial boundaries, United States history, Spanish history, Diplomatic agreements",2
+55,22.09645,5.1282797,"Land Ordinance, United States Congress, Western Territory, Land Disposal, Surveying Regulations, Historical Legislation",5
+56,13.61798,9.522852,"Reconstruction, Political history, Economic history, William Dunning, American history, Civil War aftermath",22
+57,8.761153,20.180092,"Alexander Stephens, Cornerstone Speech, Civil War, American History, Slavery, Political Speeches",17
+58,17.49495,-3.624583,"Quaker beliefs, Military drafts, Ethics of war, Religious conscience, Historical events in Pennsylvania, Community responses to conflict, Personal reflections on war",-1
+59,10.255689,8.349559,"Copyright, Library of Congress, Photographs, Historical documentation, Media representation, Historical narratives",15
+60,20.39553,14.467251,"American Federation of Labor, Labor Rights, Labor Activism, Historical Documents, United States History, 20th Century Labor Movements",13
+61,20.55948,4.285057,"Kansas-Nebraska Act, Legislation, Slavery, Territorial Government, U.S. History",5
+62,13.482491,13.334847,"Dred Scott, Supreme Court, Slavery, Legal History, Civil Rights, Constitutional Law",23
+63,2.0705383,16.080706,"Henry David Thoreau, Civil Disobedience, Philosophy, Political Activism, Social Justice",11
+64,-2.5063648,9.473902,"Islam, Hadith, Religious Teachings, Prophet Muhammad, Islamic Principles, Morality in Islam, Community in Islam",9
+65,-4.0306587,16.089943,"Transatlantic slave trade, Olaudah Equiano, Environmental impacts of slavery, Human rights, Historical narratives, Colonialism, Cultural encounters",8
+66,-6.7154346,18.533722,"Indigenous experiences, Cultural beliefs, Family dynamics, Historical accounts, Personal narratives, Colonial encounters",8
+67,14.233141,13.833606,"Supreme Court, Judicial Review, Constitutional Law, Federalism, Legal History",23
+68,5.9798527,5.5132074,"Civil Rights Movement, Student Nonviolent Coordinating Committee (SNCC), Oral histories, Civil rights demonstrations, Political activism, Integration of schools, Voter registration, Arkansas history",18
+69,19.741493,14.934374,"Labor Conflicts, Homestead Strike, Historical Documents, Labor History, American History",13
+70,10.582121,-4.375667,"American Revolution, Colonial History, Political Resistance, Historical Documents, Pauline Maher",26
+71,15.532569,6.293055,"American History, Reform Movements, Political History, Richard Hofstadter, 20th Century America",20
+72,15.203068,5.111194,"American History, Early American History, Government, Historic American Law, Political Science, Primary Documents in American History",-1
+73,5.5758004,4.443976,"Civil Rights Movement, Emmett Till, Lynching, Oral Histories, Cultural Heritage Preservation, Historical Interviews",18
+74,7.658071,9.496731,"Japanese Americans, Manzanar, World War II, Internment, Historic Photography, Ansel Adams",15
+75,-4.002497,2.6242566,"Chief Joseph, Indian Affairs, Nez Percé, U.S. Government, Westward Expansion, Native American Rights, Historical Speeches",7
+76,13.581304,2.5278854,"Alien and Sedition Acts, Political Parties, Freedom of Speech, Historical Legislation, U.S. History, Federalists vs. Democratic-Republicans",19
+77,1.9512572,-11.165159,"Virginia, Natural History, Environmental Observations, Historical Accounts, Travel Accounts",0
+78,-2.2622108,7.0985556,"Christianity, Conversion of Clovis, Cultural Diffusion, Syncretism, History of the Franks, Paganism, Political Influence of Religion, Marriage and Religion, Historical Accounts of Conversion",9
+79,-9.289878,-5.2500944,"Abigail Adams, John Adams, American Revolution, Women's Rights, Historical Correspondence, Political Analysis",4
+80,0.24320677,22.258268,"Anglo-Saxon History, Æthelflæd, Medieval Women, Military History, Political History, Chronicles, Gender Roles in History",3
+81,12.824724,-2.962021,"Thomas Jefferson, American Revolution, Colonial Rights, British Parliament, Political Philosophy, Historical Documents",26
+82,2.5929718,16.299149,"Henry David Thoreau, Civil Disobedience, Government, Justice, Conscience, Individual Rights, Political Philosophy",11
+83,-3.0595844,7.1811566,"History of Eastern Christianity, Cultural exchanges, Trade routes, Religious narratives, Historical accounts of notable figures",9
+84,15.518168,-5.6522527,"Benjamin Franklin, Stamp Act, House of Commons, American Revolution, Colonial history, Political testimony",24
+85,4.8322577,13.709076,"Horatio Alger, Rags to Riches, American Dream, Literature, Biography, Success in Literature",14
+86,-9.199505,-5.179378,"Abigail Adams, John Adams, Women's Rights, Historical Letters, American Revolution",4
+87,9.057277,19.937428,"Lincoln-Douglas debates, 1858, slavery, political speeches, Republican party, historical context, Abraham Lincoln, Stephen A. Douglas",17
+88,11.050518,16.167526,"South Carolina History, Revolutionary War, Eliza Wilkinson, Personal Accounts, Letters, 18th Century History",17
+89,9.870186,19.367008,"John Brown, Trial, Court Speech, Historical Speech, Abolitionism",17
+90,0.08748109,20.433674,"Fanny Fern, Cult of Domesticity, Women's Roles, 19th Century Literature, Marriage, Gender Norms",3
+91,12.409047,-4.346637,"Thomas Jefferson, Meriwether Lewis, Lewis and Clark Expedition, Louisiana Purchase, Exploration, Early American History, U.S. Government, Native American Relations",-1
+92,-10.765223,6.0782537,"Aristotle, Philosophy, Natural Science, History of Science, Ancient Texts",1
+93,-2.6477113,4.5244503,"Helen Hunt Jackson, Native American history, U.S. government policies, Indian tribes, historical accounts, social justice, 19th century literature",7
+94,-2.6369927,1.7981893,"Simon Pokagon, Native American history, Indigenous perspectives, Cultural commentary, Historical documents",7
+95,12.59087,16.116827,"Charles Ball, Slavery, Tobacco Plantations, Southern States, 19th Century American History, Slave Narratives, Biography, Plantation Life, African American History",17
+96,13.621101,-3.3194728,"Virginia Declaration of Rights, George Mason, American Revolution, Natural Rights, State Constitutions, Bill of Rights",26
+97,8.706398,19.191458,"Abraham Lincoln, Second Annual Message, Congress, Emancipation, Civil War, American History, Political Speech",17
+98,13.854102,-4.789614,"Thomas Jefferson, Election of 1800, Political Tolerance, Majority and Minority Rights, Federalism, Republicanism, Historical Context, American Government",26
+99,8.101327,9.15641,"Japanese Americans, Gentlemen's Agreement, Discrimination, Immigration, California history, World War II, Civil rights, Legislation, Census data",15
+100,-3.5696855,2.0202596,"Elias Boudinot, Native American history, 1826, Address to the Whites, Historical speeches",7
+101,15.865266,-5.764177,"Stamp Act, Parliamentary debates, Colonial taxation, British politics, American Revolution, Historical documents",24
+102,5.684278,-5.421847,"Treaty, Native American History, United States History, Land Cession, Indian Tribes, Historical Agreements",2
+103,12.718322,13.196748,"Black Codes, Mississippi, South Carolina, 1865, Civil Rights, Legal History",23
+104,22.605991,4.5177193,"Transcontinental Railroad, Railroad history, Acts of Congress, Historical research, Maps and images, Transportation in the United States",5
+105,23.877594,-1.1327287,"California Trail, Oregon Trail, Pioneer Life, Gold Rush, 19th Century American History, Travel Accounts, Personal Letters, Emigration, Native American Relations, Health and Sickness on the Trail",6
+106,19.965393,14.497957,"Labor Rights Activism, 20th Century History, Historical Documents, American Labor Movement",13
+107,-1.5138434,19.34315,"Carrie Chapman Catt, Women's suffrage, Women in politics, Political speeches, League of Women Voters",3
+108,11.6104555,19.795681,"Frederick Douglass, Fourth of July, American slavery, Civil rights, Historical speeches, Constitution, American history",17
+109,-3.2018182,2.427286,"Elias Boudinot, Cherokee Indians, Historical speeches, 19th century American history, Native American relations",7
+110,11.987603,20.1962,"David Walker, Abolitionism, African American history, Slavery, Civil rights, Racial inequality",17
+111,6.432534,13.313292,"Upton Sinclair, The Jungle, American literature, Social reform, Meatpacking industry, Early 20th century America",-1
+112,14.361194,7.0516706,"American identity, Ethnic diversity, Multiculturalism, Public opinion research, Normative content of identity",-1
+113,23.176702,-1.3741133,"Owen Wister, The Virginian, American West, Literature, Cowboys, 19th Century Literature",6
+114,13.498714,-5.2253256,"Thomas Jefferson, Congress, 1801, Annual Message, Presidential Communications, U.S. History, Government, Legislation",26
+115,-2.5364387,9.495831,"Timbuktu, Kingdom of Songhai, Economic connections, Cultural practices, Historical accounts, Travel literature",9
+116,10.52905,7.6772027,"Photography, Social Media Impact, Modern History, Visual Documentation, History Studies",15
+117,13.853977,13.109872,"Dred Scott, Supreme Court, Slavery, Constitutional Law, Civil Rights, Legal History",23
+118,16.044014,-4.8777475,"Pontiac's Rebellion, Lord Jeffrey Amherst, Germ warfare, American Indians, British military history, Historical documents, Colonial America",24
+119,15.78109,2.5496044,"Election of 1824, Primary sources, Political cartoons, Electoral tickets, Historical documents, American history, Presidential elections",-1
+120,-2.5543413,6.8771834,"Christianity, Paganism, Cultural Diffusion, Syncretism, Religious Conversion, Historical Accounts, Early Medieval History, Council of Whitby",9
+121,13.27096,12.041112,"Ku Klux Klan, Threats, 1868, Black Office Holders, Civil Rights, Reconstruction Era",22
+122,-10.501492,6.1420426,"Galen, Ancient Medicine, Medical Theories, Public Health History, Philosophy of Medicine",1
+123,-4.098738,16.481678,"Slavery, West African Culture, Religion, Environmental History, Historical Narratives, Cultural Practices, Colonialism, Human Rights",8
+124,7.125298,12.586599,"Social Reform, Urban Poverty, Tenement Housing, 19th Century New York, Jacob Riis",-1
+125,14.10734,7.18761,"Fatherhood, Generational Conflict, American Culture, Literature, Social Studies",-1
+126,-7.071738,18.450676,"Environmental history, Settler experiences, Native American relations, Moral and spiritual reflections, Colonial history, Religious influences on settlement, Community and family values, Social responsibility",8
+127,13.942235,10.001753,"Charles Sumner, Reconstruction, Presidential Power, Congress, Civil Rights, American History, 19th Century Politics",22
+128,9.175581,17.446636,"Emancipation, Civil War, United States history, Presidential proclamations, Slavery, Legal documents",17
+129,12.774984,-3.1917968,"Exploration, Fur trade, Political history, Environmental considerations, American Revolution, French political climate, Thomas Jefferson, John Ledyard",26
+130,-3.4548006,7.308543,"Seleucus I Nicator, Alexander the Great, Hellenistic period, Diadochi, Ancient trade routes, Political history, Syrian Wars",9
+131,19.743221,-5.2937956,"George Washington, Farewell Address, Political Parties, National Unity, Government, Liberty",25
+132,12.237263,20.01445,"Abolition Movement, Frederick Douglass, Fourth of July, American slavery, Civil rights, Historical speeches, Rhetoric, Social justice",17
+133,15.423199,-4.1492515,"Bacon's Rebellion, Colonial Governance, Political Grievances, Social Dynamics, Virginia History, 17th Century America",24
+134,-11.271708,5.8458962,"History of Medicine, Public Health, Kidney Function, Ancient Medical Theories, Blood Purification",1
+135,8.678463,19.605038,"Lincoln-Douglas Debates, Abraham Lincoln, Stephen A. Douglas, 19th Century American Politics, Historical Exhibitions",17
+136,4.5914054,-0.53784436,"Texas Revolution, Alamo, William B. Travis, Santa Anna, Historical documents, 19th century American history",-1
+137,11.363433,19.098822,"American slavery, Theodore Dwight Weld, Historical testimonies, 19th century America, Abolitionist literature",17
+138,-11.804407,9.349572,"Marie Curie, Radium, Radioactivity, Scientific Discovery, Medical Technology, History of Science, Innovation",1
+139,19.442612,13.625914,"Factory labor, Lowell Mill Girls, Women in the workforce, 19th century labor history, New England history",13
+140,-3.0484948,4.7983356,"Indian Removal Act, Andrew Jackson, Congress, Native American history, 19th century American history",7
+141,21.132309,14.879997,"Pullman Company, Labor Strikes, George Pullman, Economic Conditions, 1894 Pullman Strike, Workers' Rights, Company Towns, Wage Reductions, Industrial Relations",13
+142,-12.694099,10.138211,"Alexander Graham Bell, communication technology, historical manuscripts, invention of telephone, impact of technology on society",1
+143,0.31930044,1.6902763,"Native American history, Edward S. Curtis, photography, Library of Congress, historical documents, visual documentation, print and photographs, archival research",7
+144,13.376473,-4.5458975,"Thomas Jefferson, Religious Freedom, Virginia, Legislation, Historical Documents, 18th Century American History",26
+145,14.124075,18.383907,"W.E.B. Du Bois, African American soldiers, World War I, Civil rights, Racial equality",17
+146,-3.202929,16.114367,"Slavery, Quaker beliefs, Moral and ethical considerations, Historical travel accounts, Socio-economic implications of slavery, Human-environment interactions",8
+147,5.7344193,5.055874,"Civil Rights Movement, Emmett Till, Historical accounts, Lynching, Oral histories, Interviews, Cultural Heritage Preservation",18
+148,19.419918,3.8349545,"Missouri Compromise, Historical Documents, Legislation, 19th Century American History",5
+149,16.240211,-7.1057076,"Sugar Act, British Parliament, Colonial America, Duties and taxes, Trade regulations, Historical legislation",24
+150,11.106444,-3.5122793,"Thomas Paine, Common Sense, American Revolution, Political Philosophy, Independence, Colonial America",26
+151,-9.264375,-4.611034,"Abigail Adams, Women's Rights, American History, Letters, Founding Fathers, Early American Politics",4
+152,11.353738,18.21156,"Phillis Wheatley, Poetry, Religious themes, Moral themes, 18th century literature, African American literature",17
+153,9.617073,9.148837,"Immigration, Labor History, Folklore, Interviews, Narratives, U.S. History, Civil Rights",15
+154,19.88216,15.212358,"Emma Goldman, Henry Clay Frick, Carnegie Steel Company, Labor Relations, Anarchism, Historical Events, 19th Century America",13
+155,8.955777,9.910096,"Irish Immigration, Great Famine, 19th Century Immigration, Voyage Experiences, Ship Fever, Emigrant Narratives",15
+156,8.427764,19.897644,"Abraham Lincoln, Gettysburg Address, Civil War, American History, Speeches, Historical Documents",17
+157,23.728527,-1.442044,"William Swain, California Gold Rush, 1849, Letters, Pioneer Life, Historical Accounts",6
+158,10.151665,8.00997,"Privacy issues, Publicity rights, Copyright law, Photography law, Historical manuscripts, Transnational movements, Social justice",15
+159,11.558028,19.882723,"Frederick Douglass, American Anti-Slavery Society, Abolitionism, 19th Century American History, Civil Rights",17
+160,24.064974,-0.6314001,"Oklahoma Land Rush, Historical Events, Eyewitness Accounts, American History, Land Settlement, 19th Century America",6
+161,4.8964458,-4.808665,"Treaty of Paris, French and Indian War, Historical treaties, International relations, 18th century history",2
+162,-5.884089,17.899647,"maritime exploration, historical accounts, indigenous encounters, voyages, exploration narratives, sea creatures, expedition challenges",8
+163,11.112651,16.196072,"Slavery, United States, Historical documents, 19th century literature, Southern economy, Civil War, Social issues",17
+164,-0.6384596,20.02423,"Florence Kelley, Women's political culture, History of social reform, 19th century America, Political activism",3
+165,20.008453,4.240662,"Kansas-Nebraska Act, Legislation, Territorial Government, Voting Rights, Judicial Power, Elections",5
+166,-0.010767912,22.27834,"History, Education, Medieval Studies, Science, Social History, Intellectual Life, Women's History, Cultural Studies",3
+167,18.929455,6.862622,"Trade regulations, Company management, Historical trade practices, Global trade networks, Economic agreements",21
+168,13.394351,16.071869,"Slavery, Personal narrative, Historical account, American history, Solomon Northup, Plantation life, Freedom and captivity, Social justice",17
+169,12.454957,1.4343828,"Great Compromise, Constitutional Convention, Legislative Structure, Federalism, Historical Documents, U.S. Constitution",19
+170,4.314249,14.471524,"Russell Conwell, Acres of Diamonds, Public Speaking, American Rhetoric, Philosophy of Wealth",-1
+171,-6.838811,17.841505,"Colonial Maryland, Native American treaties, Historical narratives, Missionary letters, Early American history, Colonial exploration",8
+172,21.066242,14.798514,"Pullman Strike, American Railway Union, Labor conditions, George Pullman, Workers' rights, Historical speeches, 1894 Chicago Strike",13
+173,21.740692,4.6474047,"Interstate Commerce Act, Transportation regulation, Railroad industry, U.S. legislation, Economic history, Legal provisions, Interstate Commerce Commission",5
+174,17.566528,7.106083,"Social classes, Economic theory, Political philosophy, State and society, Rights and responsibilities, Labor and self-denial, Inequality, Historical context of social classes",21
+175,-0.5137348,22.324413,"Gender, Sexuality, Cross-dressing, Medieval history, Legal history, Same-sex relationships",3
+176,-0.11524807,1.9075975,"Native American History, Photography, Historical Document, Edward S. Curtis, Cultural Representation",7
+177,19.700169,13.472284,"Factory labor, Lowell Mill Girls, 19th century labor, Massachusetts Bureau of Statistics of Labor, Women's labor history",13
+178,4.711973,12.254486,"American literature, Theater, Royall Tyler, Historical context, 19th century drama",14
+179,8.746814,10.153365,"Chinese Immigration, Hinton Rowan Helper, Historical Accounts, 19th Century America, Immigration Policy",15
+180,-1.3286123,19.957443,"Women's Rights, Public Speaking, Suffrage Movement, History of Women, Political Participation, Democracy, Social Change, Labor History",3
+181,6.3369856,0.32742694,"Art, American History, Manifest Destiny, John Gast, 19th Century Art, Cultural Significance",12
+182,15.460964,2.3388329,"James Monroe, Era of Good Feelings, Massachusetts Society of the Cincinnati, American History, Political History, Revolutionary War, Federalism, Presidency, 19th Century America",-1
+183,12.688898,-4.167918,"Thomas Jefferson, Virginia geography, Navigation, Historical documents, American history",26
+184,18.579998,-3.7816968,"George Washington, Valley Forge, Continental Army, American Revolutionary War, Congress, Military leadership, Historical letters",25
+185,-12.142742,9.765702,"History of Science, Technology, Arts, Manufactures, Mining, Engineering, Dictionary, Reference",1
+186,-3.17304,9.703116,"Military structure, Political dynamics, Rajahs, Great Moghul, Historical accounts, Trade routes, Indian history",9
+187,11.023077,15.078866,"Freedmen's Bureau, African American history, Reconstruction, Education records, Labor agreements, Land applications",17
+188,15.060823,5.351083,"American History, Early American History, Government, Historic American Law, Political Science, Primary Documents in American History",-1
+189,19.640593,-3.7393112,"George Washington, William Crawford, Historical correspondence, 18th century American history, Colonial America, Land acquisition, Trade with Native Americans",25
+190,4.4396935,12.246866,"Royall Tyler, The Contrast, American Theatre, 18th Century Drama, Literature, Cultural History",14
+191,-2.826589,8.285665,"Mongol Empire, Religious interactions, Cultural exchanges, Church construction, Historical figures, Trade networks, Political history, Martyrdom",9
+192,8.51876,21.001123,"Clement Vallandigham, Civil War, Political Speech, American History, Anti-War Sentiment",17
+193,13.4552555,-0.42766085,"Presidential Election of 1800, Alexander Hamilton, Thomas Jefferson, Aaron Burr, Political Parties, Electoral College, Federalists, Democratic Republicans, Twelfth Amendment, American History",-1
+194,13.465064,0.03527917,"Federal Convention, Constitutional Convention, James Madison, Max Farrand, Historical Records, U.S. Constitution, American History",19
+195,4.7135816,-0.37313414,"William B. Travis, Alamo, Texas Revolution, Historical Letters, Primary Source Documents",-1
+196,4.099296,-2.986082,"Adams-Onis Treaty, United States, Spain, territorial claims, historical treaties, diplomatic agreements",2
+197,3.2137418,15.4740305,"Ralph Waldo Emerson, Self-Reliance, Philosophy, Transcendentalism, American Literature",11
+198,3.9623554,-2.055391,"Treaty of Guadalupe Hidalgo, Mexican-American War, U.S.-Mexico relations, Historical treaties, Territorial boundaries, 19th century history",2
+199,-12.336995,9.862138,"History of Technology, Iron Manufacturing, Industrial Revolution, Bessemer Process, Engineering Innovations, Malleable Iron, Historical Accounts, Technological Advancements",1
+200,22.758947,4.3503704,"Pacific Railway Act, Legislation, Transcontinental Railroad, U.S. History, 19th Century America",5
+201,10.258959,16.270597,"Benjamin Banneker, Thomas Jefferson, Race and Equality, Historical Letters, American History, Slavery, Civil Rights",17
+202,-1.1942385,1.8914036,"Zitkala-Sa, Native American experiences, Education, Cultural identity, Autobiography, 19th century American history",7
+203,20.027891,-5.0741625,"George Washington, Farewell Address, American history, political philosophy, foreign policy, national credit, education, religion, civic duty",25
+204,18.128765,6.918435,"Imperialism, Capitalism, National oppression, Historical analysis, Marxism, Colonialism, Economic theory, Social theory",21
+205,-2.5391762,1.4013463,"Pontiac, Ottawa War Chief, Native American History, 1763, Colonial America, Resistance to European Powers, Neolin's Teachings, War, Indigenous Perspectives",7
+206,11.57937,18.029,"Phillis Wheatley, Poetry, Freedom, Enslavement, Historical Literature",17
+207,6.7858224,13.320595,"Urban corruption, Political issues, Early 20th century America, Lincoln Steffens, Social reform",-1
+208,15.771057,3.6701105,"Jacksonian America, History, United States History 1815-1861, Society, Politics, Personality",-1
+209,-1.9653974,19.397987,"Women's Rights, National Organization for Women, Equality, Civil Rights, Feminism, Social Justice, Cultural Resistance Movements, 1960s Activism",3
+210,12.332125,-3.2257059,"Thomas Jefferson, American Revolution, Colonial Rights, British America, Political Philosophy, Historical Documents",26
+211,10.737258,15.254045,"Freedmen's Bureau, African American history, Civil War, Reconstruction, Education records, Labor contracts, Historical documents",17
+212,6.564646,14.366334,"Ida Tarbell, Standard Oil Company, History, Investigative journalism, Early 20th century, Business practices",14
+213,15.399214,-6.4354386,"Proclamation Act of 1763, British Colonial Policy, Native American Relations, Land Settlement, Seven Years' War",24
+214,5.6659765,5.180364,"Civil Rights Movement, Nonviolent Protest, Civil Disobedience, Racial Injustice, Philosophy of Love and Justice, Historical Context of Racial Tension",18
+215,16.112492,-6.8585925,"Sugar Act, British American colonies, import duties, Parliament legislation, historical laws, colonial trade regulations",24
+216,14.186588,9.808843,"Reconstruction, Political history, Economic history, United States history, Constitutional history",22
+217,-8.673785,-4.670525,"Abigail Adams, John Adams, Women's Rights, Historical Letters, American Revolution",4
+218,16.660225,-3.388286,"George Washington, Henry Knox, Shays' Rebellion, U.S. History, Federalism, Insurrection, Political Communication",27
+219,11.795527,18.586885,"Frederick Douglass, Slavery, Abolition, Personal Narrative, 19th Century American History",17
+220,13.714762,17.825563,"African American history, Race relations, W.E.B. Du Bois, Cultural identity, Social justice",17
+221,10.882376,-3.78578,"Thomas Paine, Common Sense, American Revolution, Political Philosophy, Government, Independence",26
+222,-2.839671,8.470674,"Tang Dynasty, Illustrious Religion, Emperors of China, Cultural exchanges, Historical inscriptions, Buddhism in China, Religious practices, Historical narratives",9
+223,12.698741,12.712778,"Brown v. Board of Education, segregation, public education, civil rights, legal history, cultural values, democracy, equal protection under the law",23
+224,6.429532,0.43286678,"American Progress, John Gast, 19th Century Art, Expansionism, Allegorical Prints, Pioneers, Frontier Life, Cultural Symbols",12
+225,10.630478,16.406311,"Sullivan Ballou, Civil War, Historical letters, Primary source documents, 19th century history",17
+226,14.838263,-2.2631826,"Noah Webster, Fourth of July, Independence Day, American history, Orations, 1798",-1
+227,-6.6093774,18.806223,"Indigenous History, Personal Narratives, Struggles of Indigenous Peoples, Historical Accounts, Life Experiences, Social Conditions, Employment Challenges",8
+228,12.019161,15.1141,"Slavery, American History, Post-Civil War, African American Studies, Historical Analysis",17
+229,9.339701,16.962942,"Fugitive Slave Act, U.S. history, Slavery, Legal documents, Civil rights",-1
+230,5.1320853,-5.3459163,"Treaty, Disarmament, United States, Great Britain, Naval Agreements, History",2
+231,5.41341,-5.1388106,"Rush-Bagot Treaty, Naval Forces, American Lakes, United States, United Kingdom, Historical Treaties",2
+232,0.113358885,21.675964,"Women's rights, Inheritance laws, Ancient contracts, Social roles of women, Legal status of women",3
+233,12.51722,0.55066186,"Great Compromise, Constitutional Convention, Bicameralism, Federalism, Legislative Power, Framers of the Constitution, U.S. Constitution, Political Representation",19
+234,18.056429,0.12238275,"Benjamin Franklin, Population growth, Economic policies, Social issues, Colonial America, Demographics, Immigration, Manufacturing, Frugality and industry, Cultural identity",10
+235,-3.2655482,1.5786545,"Tecumseh, Native American history, Indigenous unity, Colonialism, Resistance against settlers, Historical speeches",7
+236,11.960771,12.953642,"Jim Crow, Minstrel Shows, Thomas Rice, Racial Segregation, Blackface, American History, Cultural Impact, Theater History",-1
+237,15.780045,-3.147451,"Thomas Jefferson, Shays' Rebellion, American History, Political Philosophy, U.S. Constitution, Rebellion and Resistance",26
+238,5.634558,0.673029,"Monroe Doctrine, U.S. foreign policy, 19th century history, American history, diplomacy",-1
+239,1.937454,-11.17866,"Virginia, Natural History, Travel Description, Historical Letters, Environmental Observations",0
+240,22.25785,5.2816687,"Homestead Act, U.S. history, land distribution, westward expansion, legislation, Civil War era",5
+241,8.342159,20.055143,"Abraham Lincoln, Gettysburg Address, Civil War, American History, Rhetoric, Historical Speeches",17
+242,12.931207,-3.8743205,"Thomas Jefferson, American history, Colonial rights, Political philosophy, Historical documents",26
+243,-0.78661174,2.0247276,"Carlisle Indian Industrial School, Primary sources, Correspondence, Graduation pamphlets, Historical documents, Native American education, School history",7
+244,13.951501,2.6981196,"Alien and Sedition Acts, U.S. history, legal documents, First Amendment, government legislation",-1
+245,-12.316081,10.468058,"patents, iron production, steel manufacturing, industrial technology, historical accounts, engineering, licensing agreements, 19th century technology",1
+246,15.121742,13.673807,"Supreme Court, Judicial Review, Legal History, U.S. Constitution, Mandamus, Public Office, Political Appointments",23
+247,-8.670422,-4.948063,"Marie Antoinette, French history, Women's roles in history, Letters, Personal correspondence, 18th century Europe",4
+248,14.604165,7.005687,"American identity, Police legitimacy, Legal socialization, National identity, Social and ethnic identity, Perceptions of authority",-1
+249,6.736391,-0.21476986,"American history, Frontier, Frederick Jackson Turner, Historical significance, Cultural impact",-1
+250,0.36094388,1.3129958,"Indigenous culture, Photography, Edward S. Curtis, North American Indians, Historical documentation, Cultural heritage",7
+251,-3.1363103,9.942513,"Military History, 19th Century Turkey, Economic Policies, Abdülhamid II, Historical Regulations",-1
+252,17.828623,7.2578926,"Peasant movement, Revolutionary action, Social change, Land reform, Historical context, Chinese history, Class struggle, Agrarian issues",21
+253,19.524166,13.221489,"Lowell Mill Girls, Factory Labor, 19th Century Labor History, Women's History, Industrial Revolution",13
+254,2.242684,15.540693,"Thoreau, Walden, Nature, Philosophy, Simplicity, Self-Reliance, Society, Life, Existence",11
+255,13.004195,0.54319465,"Hartford Convention, Historical documents, American history, Political meetings, New England history",19
+256,-3.4276972,8.8415575,"Diplomatic missions, Cultural exchanges, Religious interactions, Historical accounts, Travel narratives",9
+257,20.166977,3.4091675,"Wilmot Proviso, Slavery, Mexican War, U.S. Congress, Legislation, Civil War, Sectionalism",5
+258,10.913078,-4.5383315,"American Revolution, Cultural Resistance, Colonial America, Independence Movement, Political Philosophy, British Colonialism, Transatlantic Relations",26
+259,-2.6691139,1.6608485,"Simon Pokagon, Native American history, Potawatomi, Cultural heritage, Historical documents",7
+260,12.378568,-0.44194198,"Anti-Federalist Papers, U.S. Constitution, Ratification debate, Melancton Smith, George Clinton, Richard Henry Lee, Federalist Papers, Bill of Rights, Historical documents",19
+261,-10.166447,5.7869062,"Galen, Ancient medicine, Medical theories, Urinary secretion, Historical medical texts",1
+262,3.441255,-3.1438482,"Adams-Onis Treaty, United States, Spain, Territorial boundaries, Historical treaties, Diplomatic relations",2
+263,4.776792,-5.3927946,"Treaty of Ghent, War of 1812, Historical treaties, 19th century history, International relations",2
+264,-2.9774182,9.031651,"Islamic history, Imam Muhammad al-Baqir, Sunni perspective, Hadith, 14th-century historiography, Religious scholarship, Islamic jurisprudence",9
+265,14.231249,17.93031,"W.E.B. Du Bois, Returning Soldiers, World War I, Civil Rights, Democracy, Racism, Lynching, Disfranchisement",17
+266,16.117786,3.071954,"Panic of 1837, Economic history, Political cartoons, Historical documents, 19th century America",16
+267,15.106276,1.8996457,"Federal Reserve, Monetary Policy, Economic Projections, Press Releases, Speeches, Banking Regulations",16
+268,10.953692,18.922535,"William Lloyd Garrison, Abolitionism, The Liberator, Historical Newspapers, Radical Abolitionism, 19th Century American History",17
+269,7.772023,11.497995,"Jewish Immigration, New York Ghetto, Cultural Identity, Literature, Early 20th Century America",15
+270,13.089958,-0.74161655,"Federalist Papers, Alexander Hamilton, John Jay, James Madison, U.S. Constitution, Political philosophy, American history",19
+271,-2.8324547,10.001756,"Market practices, Trade goods, Cultural practices, Economic activities, Historical accounts, Idolatry and religion, Social structure",9
+272,15.880562,-6.9694996,"Stamp Act, British Parliament, Colonial America, Taxation, Historical legislation, Seven Years' War, Colonial resistance, King George III",24
+273,14.368917,18.685972,"Mary Church Terrell, Colored Women, Civil Rights, Women's Rights, Historical Speech, African American History",17
+274,14.282942,13.342661,"Dred Scott, Supreme Court, Slavery, Civil Rights, Legal History, U.S. Constitution, Judicial Decisions",23
+275,12.771872,19.772831,"John S. Rock, Abolitionism, African American History, Civil Rights, 19th Century America, Dred Scott Decision, Racial Identity, Public Speaking",17
+276,1.8460467,15.646923,"Equality, Civil society, Natural rights, Social contract, Human diversity, Political philosophy, James Wilson, Lectures on Law",-1
+277,-3.2719646,15.976353,"Olaudah Equiano, Trans-Atlantic Slave Trade, Slavery, African History, Indigenous Peoples, Historical Narratives, Abolition Movement",8
+278,15.516336,-5.49676,"John Dickinson, Townshend Acts, Colonial America, Political Pamphlets, American Revolution, Taxation, Colonial Rights",24
+279,16.651585,6.781074,"William Graham Sumner, Social Classes, Economic Theory, Sociology, 19th Century Philosophy",20
+280,-3.8970351,2.421238,"Chief Joseph, Nez Percé tribe, Indian affairs, U.S. government, Native American history, surrender, treaties, civil rights, equality",7
+281,8.207929,20.731186,"Clement Vallandigham, Civil War, Political speeches, American history, Opposition to the war",17
+282,18.578829,7.049252,"Imperialism, Capitalism, Marxism, Economic theory, Socialism, Historical analysis, Political theory, Lenin, Post-Colonial Studies",21
+283,13.787643,10.972317,"Reconstruction, Civil War, Freedmen, Jourdan Anderson, Historical Letters, African American History",22
+284,5.8743258,-4.269306,"Alaska, U.S. History, Treaties, Government Documents, Historical Correspondence",2
+285,12.226173,-3.403402,"Thomas Jefferson, American Revolution, Colonial Rights, British America, Political Philosophy, Historical Documents",26
+286,14.275463,8.879842,"Thomas Nast, Harper's Weekly, Civil War, Political Cartoons, American History, Union and Confederacy, Reconstruction Era",22
+287,-12.264556,10.733023,"Bessemer process, steel production, industrial technology, 19th century inventions, autobiography of inventors, historical accounts of technology",1
+288,5.1871357,14.379576,"Andrew Carnegie, Gospel of Wealth, Philanthropy, Essays, 19th Century American Literature",14
+289,7.856236,9.519146,"Japanese immigration, Gentlemen's Agreement, California history, Japanese American history, Immigration policies, Census data, Cultural practices, Picture brides",15
+290,-10.922011,5.8315687,"Vaccination, Smallpox, Cowpox, Medical history, Public health, Inoculation practices, 19th century medicine",1
+291,-3.5432765,3.3637722,"Chief John Ross, Congress, 1836, Native American history, Cherokee Nation",7
+292,3.2879903,15.948328,"Henry David Thoreau, Walden, Transcendentalism, Nature, Philosophy, Self-reliance, Society, Labor, Existentialism",11
+293,7.5854716,11.193007,"Jewish fiction, New York (N.Y.) -- Fiction, Immigration, Cultural identity, Literature",15
+294,6.0049596,-4.7454286,"Alaska Purchase, U.S.-Russia Relations, Historical Treaties, Migration to Alaska, American History",2
+295,0.16712832,20.60447,"Domestic Economy, Women's Roles, Health and Nutrition, Housekeeping, Education for Young Ladies, 19th Century Social Norms",3
+296,16.545097,2.505244,"Election of 1860, Primary sources, Historical documents, Political parties, Candidates, Campaigning, Slavery, U.S. history",-1
+297,17.54565,0.26754838,"Benjamin Franklin, Slavery, Emancipation, Human rights, Historical documents, American history",10
+298,-2.4120984,7.2273607,"Christianity, Cultural Diffusion, Syncretism, History of England, Augustine of Canterbury, Pope Gregory the Great, Religious Conversion, King Ethelbert, Early Church, Paganism, Missionary Work",9
+299,14.416078,8.314817,"Thomas Nast, Harper's Weekly, Cartoons, Political Cartoons, 19th Century Art, American History",-1
+300,23.74664,-0.3860573,"Oklahoma Land Rush, historical events, first-hand accounts, settlement, land acquisition, American history",6
+301,20.249655,3.9855294,"Missouri Compromise, Slavery, Legislation, U.S. History, Congress, Louisiana Territory",5
+302,-10.887921,7.705801,"Euclid, Geometry, Mathematics, History of Science, Influence of Mathematics, Educational Technology, Java Applets",1
+303,-1.806747,20.63677,"Women's history, Political history, Archival documents, Primary source archives",3
+304,19.729527,13.200841,"Lowell Mill Girls, Women's labor history, Factory strikes, 19th century labor movements, Women's rights, Economic status of women, Historical accounts of factory work",-1
+305,18.977825,-3.639078,"George Washington, Valley Forge, American Revolutionary War, Military conditions, Historical letters",25
+306,-10.672282,6.718307,"Philosophy, History of Science, Existence, Nature of Reality, Parmenides, Ancient Greek Philosophy",1
+307,8.498718,9.595065,"Lewis Hine, Immigrants, Ellis Island, Photography, Social History, Immigration Stations",15
+308,16.062752,0.4451212,"Noah Webster, American identity, Linguistic nationalism, Education, American history, Language reform",-1
+309,5.0746627,4.741137,"Civil Rights Activism, Oral Histories, Transcripts of interviews, Historical accounts",18
+310,14.681135,6.3870335,"American history, Social order, Historical analysis, Cultural studies, Political history",20
+311,14.2676115,10.74773,"Thaddeus Stevens, Reconstruction, American Politics, Civil Rights, United States Congress",22
+312,9.693702,17.127096,"Lord Dunmore, Ethiopian Regiment, African American service, Revolutionary War, military history, Loyalist forces, freedom for slaves, historical context",17
+313,19.858988,3.4273727,"Missouri Compromise, Legislation, U.S. History, Slavery, Statehood, Political Compromise",5
+314,4.2706327,-4.075992,"Pinckney's Treaty, U.S.-Spain relations, Historical treaties, Diplomatic history, American history",2
+315,5.953742,0.5162124,"Monroe Doctrine, U.S. foreign policy, 19th century history, James Monroe, American history",-1
+316,4.1851273,11.895404,"Royall Tyler, The Contrast, American theater, 18th century literature, Playwriting, Cultural contrast",14
+317,-12.931487,10.383977,"Metallurgy, Iron production, Chemical processes, Industrial technology, Historical technology advancements",1
+318,-3.3742785,1.9375609,"Nez Perce, Chief Joseph, Treaties, Native American History, Colonialism, Indigenous Rights, Historical Accounts",7
+319,17.60414,0.53944826,"Benjamin Franklin, Slavery, Historical documents, 18th century America, Public addresses",10
+320,2.8497248,14.928899,"Walt Whitman, American poetry, 19th century literature, Transcendentalism, Self and identity, Nature, Death and life",11
+321,19.114569,-4.3488693,"George Washington, Last Will and Testament, Historical Documents, American History, Slavery, Legal History, Virginia Law",25
+322,-0.2481228,19.923384,"Catherine Beecher, Women's roles, 19th century America, Social responsibilities, Gender studies",3
+323,19.333685,14.055969,"Industrial Revolution, American history, Labor movements, Technological advancements, Social changes, Child labor, Urbanization, Economic policies, Historical education",-1
+324,9.573325,16.807756,"Lord Dunmore, Ethiopian Regiment, African American service, Revolutionary War, Loyalist forces, Historical recruitment, Freedom for slaves, Military history",17
+325,6.127211,-5.0715957,"Alaska, Treaty, United States, Russia, Historical Documents, 19th Century History",2
+326,12.55686,-4.4741645,"Thomas Jefferson, Meriwether Lewis, Lewis and Clark Expedition, Historical Letters, Early American History",26
+327,1.0816042,-12.033475,"Virginia, Natural history, Environmental observations, Royal Society, 17th century, Travel accounts, Air quality",0
+328,15.637569,5.801232,"American history, Progressive Era, Political capitalism, Economic regulation, Conservatism, Business and politics, Historical interpretation",20
+329,12.014755,15.779692,"American Colonization Society, Colonization, African Americans, Liberia, Historical Reports",17
+330,12.962441,15.828076,"Slave Narratives, Personal Accounts, History of Slavery, African American History, Federal Writers' Project",17
+331,-1.9931018,2.5712068,"Sitting Bull, Northern Pacific Railroad, Native American history, 19th century America, Cultural interactions, Railroad history",7
+332,-1.7864424,2.3482184,"Battle of Little Bighorn, Historical accounts, Newspaper archives, 1876 events",7
+333,-2.8097482,8.936733,"Islamic beliefs, Death and afterlife, Historical religious texts, Medieval history, Religious traditions",9
+334,2.7569551,15.417522,"Ralph Waldo Emerson, Self-Reliance, Individualism, Personal Responsibility, Nonconformity, American Literature, Philosophy, Empowerment, Resilience",11
+335,10.377662,7.795978,"photography, historical events, literacy, education, Book Week",15
+336,14.312471,-2.2671335,"Declaration of Independence, Founding Documents, American History, Historical Texts",26
+337,-2.7619843,2.8469138,"Chief Red Cloud, Indian Rights, U.S. Government Relations, Teton Sioux Nation, Historical Speeches, Native American History",7
+338,16.317719,1.4408107,"Alexander Hamilton, Manufacturing, Agriculture, Economic policy, Industry, Historical economic thought",-1
+339,-3.3079803,7.6868544,"Cultural exchange, Religious practices, Diplomatic relations, Medieval history, East-West interactions, Mongol Empire, Papal history",9
+340,-11.9119425,10.5569315,"Aviation, Wright Brothers, Inventions, Telegrams, History of Technology, Early 20th Century Innovations",1
+341,8.94672,17.63387,"Emancipation Proclamation, Abraham Lincoln, Civil War, Slavery, Historical documents, Military history, Black soldiers in the Civil War",17
+342,18.346573,6.993469,"U.S. foreign policy, Open Door Policy, China, Imperialism, Diplomatic communications, International relations",-1
+343,7.01883,0.13847892,"Thomas Cole, Hudson River School, American art, 19th century art, oil painting, art provenance, art history",-1
+344,5.307465,12.599382,"Minstrel Shows, Thomas Rice, Jim Crow, Blackface, Theater History, 19th Century American Culture",-1
+345,10.468726,-3.8940492,"Thomas Paine, American Revolution, Independence, Political Philosophy, Historical Texts",26
+346,-2.8785605,4.0162263,"Helen Hunt Jackson, A Century of Dishonor, U.S. government, Native American relations, History, Politics, Race relations",7
+347,15.180728,6.7711673,"Pullman, Social Studies, Richard T. Ely, Historical Analysis, Community Studies, 19th Century America",20
+348,13.692908,11.206103,"Reconstruction (U.S. history, 1865-1877), African Americans, History, Civil Rights, Post-Civil War America",22
+349,6.3518157,14.928794,"John D. Rockefeller, Business, History, Memoirs, American History",14
+350,-10.09084,6.1544285,"History of Medicine, Anatomy, Vesalius, Medical Texts, Renaissance Medicine",1
+351,13.491189,-1.1210356,"Virginia Resolutions, Alien and Sedition Acts, State rights, Federal government, Constitutional interpretation, Historical documents, James Madison",-1
+352,-0.22187427,1.4442128,"Kwakiutl culture, Indigenous ceremonies, Edward S. Curtis, Cultural rituals, North American Indigenous peoples, Dance, Eclipses, British Columbia",7
+353,-6.3732653,18.725971,"Ba-ila tribe, Leza, Indigenous spirituality, Northern Rhodesia, Cultural beliefs, Historical accounts",8
+354,13.6131935,-4.427854,"Thomas Jefferson, Religious Freedom, Virginia, Legislation, Historical Documents, Civil Rights",26
+355,16.699417,-3.5888925,"George Washington, Henry Knox, Shays' Rebellion, Articles of Confederation, American Revolution, Massachusetts, U.S. History",27
+356,11.571904,15.9901495,"East Florida, 19th Century, American History, Colonial Relations, Spanish Colonial History, Letters, Manuscripts",-1
+357,13.252877,-3.8549025,"Thomas Jefferson, John Adams, Religion, Governance, Societal Structures, American History",26
+358,-1.7214829,19.548159,"Carrie Chapman Catt, Women's Suffrage, Feminism, Democracy, Public Speeches, Reform Movements, Women's Rights",3
+359,9.369055,8.933466,"Immigration, Personal narratives, Historical documents, Photography and law",15
+360,-9.586121,-4.8766074,"Abigail Adams, Women's Rights, American History, Letters, Founding Fathers, Early American Politics",4
+361,-6.392328,18.017788,"Colonial history, Early Maryland, Native American relations, Religious missions, Historical narratives",8
+362,-3.1322703,7.0920753,"Frankish history, Chlodovocar, medieval politics, kinship, cultural dynamics, leadership, historical narratives",9
+363,-2.8610985,9.374988,"Mansa Musa, Kingdom of Mali, Pilgrimage, Economic impact, Gold, Cairo, 14th century history, Al-Umari",9
+364,8.342245,10.110565,"Emigration, Travel, United States, Canada, 19th Century, Personal Narrative",15
+365,8.810615,18.192484,"Emancipation Proclamation, Abraham Lincoln, American Civil War, Slavery, Civil Rights, Presidential Proclamations",17
+366,12.311568,16.602472,"Joseph Smith, Latter-day Saint history, Church history, Personal narratives, Historical manuscripts, First Vision account, Legal petitions, Mormonism",17
+367,-3.1156592,17.117579,"Colonial Resistance, South Africa, Native Life, Historical Accounts, Colonialism, Plaatje, Sol. T.",8
+368,11.638434,16.289467,"Cotton culture, Agriculture, Manufacturing, Commerce, Slavery, 19th century American history",17
+369,8.015461,9.276746,"Chinese laborers, Transcontinental Railroad, Oral histories, Interviews, Family lore, Discrimination, Chinese immigrants, Historical narratives",15
+370,15.763856,2.1948395,"Henry Clay, American System, Economic Policy, 19th Century Politics, U.S. History",16
+371,1.5734539,-11.542611,"Virginia, Natural History, Environmental Observations, Historical Accounts, Travel Accounts",0
+372,15.026144,13.7185135,"Supreme Court, Civil Liberties, Military Trials, Clement L. Vallandigham, American Civil War, Legal Proceedings",23
+373,-11.212954,6.997069,"Greek Literature, Euripides, Medea, Gender Roles, Patriarchy, Ancient Greece, Women's Experiences, Tragedy",1
+374,-3.2371278,10.067294,"Transatlantic relations, Cultural exchange, History, Social history, Migration",-1
+375,11.858674,19.006203,"Frederick Douglass, Slavery, Abolitionism, Civil Rights, Autobiography, American History",17
+376,10.766061,-3.8078213,"American Revolution, Thomas Paine, Common Sense, Political pamphlets, Historical documents, Colonial America",26
+377,-6.2939186,17.658167,"Colonialism, Walter Ralegh, Royal grants, Exploration, Legal documents, Colonial policies, Indigenous rights, Historical treaties",8
+378,-3.2058024,16.815825,"Quaker meetings, Slavery, Moral implications of slavery, Education of enslaved individuals, Historical context of land use, Social justice, Religious perspectives on ethics",8
+379,14.694857,13.461493,"Supreme Court decisions, Due process, Military commissions, Civil liberties, Constitutional law",23
+380,11.905805,19.97535,"David Walker, Abolitionism, African American history, Slavery, Civil rights, Historical documents",17
+381,8.0637455,20.51715,"Henry Clay, American System, 1824, U.S. History, Political Speeches, Economic Policy",17
+382,-2.612242,2.609093,"Wounded Knee Massacre, Native American history, U.S. military actions, Ghost Dance, Lakota people, Indian Wars",7
+383,11.615452,-3.4633763,"Patrick Henry, Give Me Liberty Or Give Me Death, Virginia Assembly, American Revolution, Historical Speeches",26
+384,13.121749,12.703246,"Plessy v. Ferguson, Supreme Court, Civil Rights, Separate but Equal, Fourteenth Amendment, Legal History",23
+385,-2.8500016,4.98648,"Dawes Severalty Act, Native American land allotment, U.S. legislation, Indian policy, 1887 legislation",7
+386,19.242977,-3.4777153,"George Washington, Neutrality Proclamation, U.S. Foreign Policy, 1793, Historical Documents, American History",25
+387,19.191881,-5.6946683,"George Washington, Farewell Address, American history, Political advice, Foreign relations, National unity",25
+388,4.300535,12.208441,"Royall Tyler, The Contrast, American theater, 18th century literature, Cultural commentary, Social satire, Dramatic literature",14
+389,15.78758,-6.245846,"Stamp Act, Parliamentary debates, American Revolution, Colonial response, Historical documents",24
+390,-3.690423,15.450068,"Olaudah Equiano, Transatlantic Slave Trade, African Culture, Colonialism, Religion and Rituals",8
+391,9.962519,16.64291,"Antislavery, Massachusetts, Historical Petition, African American History, Legislative History",17
+392,6.023578,4.570769,"Civil Rights Movement, Oral histories, Legal cases, NAACP, African American history, Interviews, Segregation, World War II, Personal narratives",18
+393,9.973171,16.047518,"Anti-Slavery, Massachusetts, Historical Documents, African American History, Revolutionary War, Legislative Petitions, Civil Rights",17
+394,4.8545637,11.721803,"Theater, American Literature, Cultural History, 19th Century, Royall Tyler",14
+395,14.5056305,-2.0768862,"Benjamin Rush, Religion, Founding Era, American History, Historical Documents",-1
+396,17.526573,0.03624328,"Benjamin Franklin, Immigration to America, Economic opportunities, Agriculture, Craftsmanship, Colonial America, Social conditions, Manufacturing, Labor market",10
+397,13.233189,-4.48347,"Embargo Act, Thomas Jefferson, U.S. History, Early 19th Century, Legislation",26
+398,12.844887,-0.39601701,"The Federalist Papers, American political tradition, U.S. Constitution, ratification, founding fathers, political theory",19
+399,13.882247,4.145905,"Chinese Exclusion Act, U.S. Statutes at Large, Legislation, Historical Documents, U.S. Congress",-1
+400,-1.6479725,2.4916487,"Battle of Little Bighorn, Primary sources, Native American history, Custer Massacre, Historical documents",7
+401,13.319403,15.72702,"Venture Smith, Slavery, African American history, Autobiography, Narratives of enslaved individuals",17
+402,11.707359,17.871439,"Harriet Beecher Stowe, Uncle Tom's Cabin, Slavery, 19th Century Literature, American Literature, Social Issues, Historical Context",17
+403,0.1329411,21.68953,"Adoption, Inheritance, Legal history, Women's rights, Ancient Babylonian society, Property rights",3
+404,15.62458,4.9921317,"History, American Politics, Jacksonian Era, Political Science, Historical Analysis",20
+405,1.90207,15.5652,"Equality, Civil society, Natural rights, James Wilson, Lectures on Law, Political philosophy, Social contract, Human rights",-1
+406,12.156921,16.94543,"Autobiography, Religious History, American History, 19th Century Preaching, Methodism",17
+407,11.951471,12.396729,"Jim Crow laws, Segregation, Racial discrimination, Historical artifacts, Civil rights",23
+408,13.664679,2.2110841,"Coinage, U.S. Law, Mint Operations, Gold and Silver Standards, Legal Tender, Historical Legislation",19
+409,13.351426,1.3101999,"Articles of Confederation, Continental Congress, U.S. Constitution, American History, Government Structure, Historical Documents",19
+410,-9.35308,-4.4940104,"Abigail Adams, John Adams, Women's Rights, Historical Letters, American Revolution",4
+411,16.200949,-6.211844,"Grenville's Economic Plan, Stamp Act, Colonial Resistance, British Taxation, American Revolution, Legislative History",24
+412,2.0657074,15.38323,"Civil Disobedience, Henry David Thoreau, Moral Philosophy, Political Activism, Unjust Laws, Individual Rights",11
+413,17.851267,0.44096413,"Benjamin Franklin, Emigration to America, American history, Advice for immigrants, Economic opportunities in America, Labor and industry, Agriculture in America, Social conditions in America",10
+414,11.269455,19.738544,"David Walker, Abolitionism, Slavery in the United States, African American history, 19th century literature",17
+415,5.795998,0.14988397,"Manifest Destiny, John L. O'Sullivan, American Expansionism, Texas Annexation, 19th Century American History",12
+416,18.228256,7.5478597,"Mao Tse-tung, Communism, Social Investigation, Political Theory, Class Forces, Economic Conditions, Historical Context, Environmental Policy",21
+417,3.9575655,-0.9677895,"James K. Polk, Mexican-American War, Congress, War Declaration, Historical Documents",2
+418,5.6579275,14.520911,"Andrew Carnegie, Autobiography, Business, Philanthropy, Industrialization, American History",14
+419,19.76394,-5.167256,"George Washington, Farewell Address, Presidency, American History, Founding Fathers",25
+420,8.363582,9.790326,"Immigration, Ellis Island, Lewis Hine, Photographs, Portraits, Immigrants",15
+421,6.022339,4.657393,"Wilmington Race Riot, Historical Reports, Race Relations, North Carolina History, Civil Rights, Historical Documents",18
+422,0.19753951,1.6291444,"Native American culture, American history, Photography, Arts, Women in history, Life in the early 1900s, Edward S. Curtis",7
+423,7.499761,12.111026,"tenement housing, living conditions, New York City, 19th century poverty, social reform, immigration, urbanization",15
+424,16.631,-4.0715466,"Whiskey Rebellion, George Washington, U.S. Government, Militia, Taxation, Pennsylvania, Historical Proclamations",27
+425,-6.8465457,18.855883,"Indigenous histories, Virgin of Guadalupe, Juan Diego, Cultural significance, Religious narratives, Historical accounts, Miracles in history",8
+426,-0.5950141,19.661327,"Florence Kelley, Kathryn Kish Sklar, Social reform, Labor rights, Women's rights, Historical analysis, American history",3
+427,10.48686,16.103615,"Denmark Vesey, Rebellion, South Carolina, Slavery, Historical Trials, Primary Sources",17
+428,17.767797,0.5072967,"Benjamin Franklin, Emigration, American Society, Labor and Economy, Colonial America",10
+429,13.854703,18.923462,"Booker T. Washington, The Atlanta Compromise, African American History, Civil Rights, Historical Speeches",17
+430,12.727386,0.81424564,"United States Constitution, Ratification, Founding Documents, Legal Texts, Government Structure",19
+431,15.607271,-6.6563425,"Stamp Act, Colonial America, British Legislation, Taxation, American Revolution",24
+432,-1.9185567,7.6153617,"Christianity in China, Tang Dynasty, Cultural exchange, Religious history, Global trade routes, Historical accounts, Syria, Emperor Tai-tsung, Olopun, Imperial proclamations",9
+433,-12.354805,10.356316,"Metallurgy, Steel production, Invention process, Industrial challenges, Financial investment in technology, Historical technological advancements",1
+434,18.335575,7.2425246,"Scientific management, Labor relations, Productivity, Management theory, Industrial revolution, Economic history",-1
+435,-0.17111075,20.683048,"Domestic Economy, Women, Education, Home Economics, Social Conditions",3
+436,12.893924,-0.49488267,"Federalist Papers, Constitution, Hamilton, Madison, Jay, Political Philosophy, American History",19
+437,14.893344,-2.6042068,"Declaration of Independence, Continental Congress, American Revolution, Historical documents, Founding Fathers",26
+438,4.4169817,-4.9955726,"Treaty of Paris, French and Indian War, Historical treaties, Diplomatic agreements, 18th century history",2
+439,4.19697,-0.9144603,"James K. Polk, War Message, Congress, Mexican-American War, Historical Documents",2
+440,13.086038,1.5718356,"State Constitutions, Legal Documents, Historical Texts, Government, Law",19
+441,-10.974156,6.3881083,"Philosophy, Parmenides, Melissos, History of Science, Ontology, Metaphysics, Ancient Greek Philosophy",1
+442,5.925679,0.78175026,"James Monroe, Monroe Doctrine, U.S. foreign policy, 19th century history, American history",-1
+443,23.414726,-0.69945854,"Westward expansion, Emigrant trails, Oregon Trail, California Trail, Mormon Trail, Pioneer experiences, Travel challenges, Wagon companies, Historical figures, Trail cutoffs",6
+444,18.779,7.2001843,"Colonialism, Imperialism, Economic history, Political history, 19th century history, Statistics of colonial possessions, Cecil Rhodes, European powers, Capitalism, Social issues related to imperialism",-1
+445,-1.986897,2.538851,"Battle of Little Bighorn, General Custer, Sioux and Cheyenne, Historical accounts, National Archives, Primary sources",7
+446,1.475901,-11.639797,"Environmental observations, Historical documents, Virginia, Royal Society, 19th century America",0
+447,8.125387,9.972701,"Chinese immigration, 19th century America, personal narrative, cultural experiences, biography",15
+448,4.111338,-2.444192,"Gadsden Purchase, Treaty, United States, Mexico, 19th Century, Territorial Boundaries, Diplomatic Relations",2
+449,8.0129,20.902899,"Alexander H. Stephens, Cornerstone Speech, Civil War, American History, Political Speeches",17
+450,-2.4812226,19.859074,"Gender equality, Feminism, Judith Sargent Murray, Historical documents, Women's rights",3
+451,18.092495,6.6396937,"Imperialism, World War I, Socialism, Marxism, Economic Analysis, Colonialism, Proletarian Revolution, Kautskyism, Labor Movement, Peace Treaties",21
+452,16.190239,2.7591603,"Andrew Jackson, Bank of the United States, Panic of 1819, U.S. History, Political History, Economic Policy",16
+453,15.827946,6.6870275,"United States history, Social conditions, Political history, Progressivism, Middle class, Historical analysis",20
+454,12.144186,1.0167701,"Great Compromise, Constitutional Convention, Legislative representation, Historical voting results, Founding Fathers, U.S. Constitution",19
+455,21.844074,4.684894,"Interstate Commerce Act, Railroad Regulation, Legislation, Transportation Law, Economic Regulation",5
+456,-10.038708,5.8559966,"History of Medicine, Ibn Sina, Avicenna, Medical theories, Health and sickness, Historical texts, Philosophy of medicine",1
+457,19.52066,-4.926309,"George Washington, Farewell Address, Presidency, American History, Political Philosophy",25
+458,13.664997,10.481275,"Reconstruction, 14th Amendment, Civil Rights, Political Power, Emancipation, Enfranchisement, Equality, Education",22
+459,-2.049421,19.779152,"Women's Rights Convention, Seneca Falls, Declaration of Sentiments, Women's Suffrage, Historical Documents",3
+460,19.900995,-4.4364343,"George Washington, Neutrality Proclamation, 1793, United States History, Foreign Policy, War, Diplomacy",25
+461,22.041039,4.490394,"Sherman Antitrust Act, Legislation, Historical context, John Sherman, Trusts and monopolies, Gilded Age, Railroad regulation, Economic history",5
+462,20.66681,15.55546,"Pullman Strike, Labor Relations, Wage Cuts, American Railway Union, Historical Testimonies, 19th Century Labor Movement",13
+463,-6.140641,19.070414,"Kikuyu culture, Ngai, Indigenous beliefs, African religions, Ancestor worship, Spiritual practices, Jomo Kenyatta",8
+464,2.7091966,16.106699,"Henry David Thoreau, Walden, Economy, 19th Century Literature, Transcendentalism",11
+465,18.828005,4.0450716,"Fugitive Slave Act, Slavery in America, Legislation, U.S. History, Constitutional Law",5
+466,18.662672,-3.783876,"George Washington, Valley Forge, American Revolution, Historical letters, Military history",25
+467,9.284516,19.46875,"John Brown, Final Address, Court, 1859, American History, Civil Rights, Abolitionism",17
+468,-2.5882673,5.118159,"Indian Removal Act, Legislation, U.S. History, Native American History, Congress",7
+469,-2.2821887,19.545286,"Women Suffrage, Women's Rights, Suffragists, Feminism, Historical Documents, Reformers, Carrie Chapman Catt, Manuscripts, Peace Activism",3
+470,11.827845,12.808306,"Jim Crow laws, Civil Rights Movement, American History, Racial Segregation, C. Vann Woodward",23
+471,15.9654,6.26368,"American political history, Political theory, Richard Hofstadter, 20th century politics, Political traditions in the U.S.",20
+472,3.592008,-1.5183431,"Treaty of Guadalupe Hidalgo, 1848, U.S.-Mexico War, Historical treaties, Land cessions",2
+473,-9.711095,-5.1018295,"Abigail Adams, Women's Rights, American History, Letters, Founding Fathers",4
+474,-5.9069734,18.17316,"Indigenous experiences, Colonialism, Personal narrative, Christianity, Social struggles, Cultural interactions",8
+475,3.2217753,14.926909,"Walt Whitman, American poetry, 19th century literature, Romanticism, Self-expression, Nature, Identity",11
+476,19.249218,13.556177,"Lowell Mill Girls, Harriet Hanson Robinson, Labor history, Women's rights movement, 19th century American history, Textile industry, Strikes and labor movements",13
+477,16.173903,1.6319675,"Alexander Hamilton, Manufacturing, Agriculture, Economic policy, United States history",16
+478,14.142104,3.201318,"Pendleton Act, Civil Service Reform, U.S. Government, Merit-based System, Political Appointments, History of Federal Employment, Legislation, 19th Century U.S. History",-1
+479,0.18211868,22.40068,"Ancient Civilizations, Legal Systems, Women's Rights, Sumerian History, Mesopotamian Society, Code of Hammurabi",3
+480,4.965533,5.132828,"Bogalusa, Environmental Justice, Community Activism, Resource Archives, Legal Documents",18
+481,5.3057313,-4.825998,"Treaty, Peace Agreement, United States, France, Historical Document, International Relations, 19th Century History",2
+482,17.632664,-0.20218597,"Benjamin Franklin, Emigration, North America, 18th Century America, European Immigration, American Society, Expectations of Immigrants",10
+483,8.494821,19.124374,"Abraham Lincoln, Second Annual Message, Civil War, U.S. Congress, Foreign Affairs, American History, Political Relations, Colonization, Trade Agreements, National Finances",17
+484,5.537785,-4.5170984,"Jay's Treaty, 1795 Treaty, U.S.-British Relations, Historical Documents, Treaties",2
+485,-2.8794038,19.815126,"Judith Sargent Stevens Murray, Gender equality, Women's rights, Historical documents, Education, 18th century literature",3
+486,-0.20199008,22.138706,"History of Gender, History of Sexuality, Homoerotic relationships, Classical literature, Christianity and sexuality, Emotional bonds between men, Historical perspectives on love",3
+487,13.012676,1.9219612,"Articles of Confederation, U.S. History, Early American Government, State Governance, Legal Framework",19
+488,19.635033,3.5838768,"Missouri Compromise, Slavery, Legislation, 19th Century American History, U.S. History",5
+489,12.541132,16.315899,"Black women, Labor history, Family history, Slavery, Employment, Afro-American families, Afro-American women",17
+490,3.5753317,14.744943,"Brook Farm, The Harbinger, Associationism, Fourierism, 19th Century American Literature, Social Reform, Historical Publications",11
+491,12.893532,-3.8231175,"Thomas Jefferson, American history, Colonial rights, British America, Political philosophy, 18th century documents",26
+492,5.5632477,5.6960607,"Civil Rights Movement, Oral Histories, Activism, Social Justice, Timothy Jenkins, Howard University, Student Nonviolent Coordinating Committee (SNCC), Personal Narratives, Political Involvement",18
+493,14.178579,6.2644143,"Urban History, Local History, Historical Thinking, New York City, Primary Sources, Urban Design, Education, Source Analysis",-1
+494,-2.823153,4.707047,"Indian Removal, Andrew Jackson, U.S. Congress, 19th Century American History, Native American Policy",7
+495,12.879769,-4.911108,"Thomas Jefferson, Virginia, Geography, Governance, History, Rivers, Navigation, Laws, Colonial America",26
+496,3.3770518,-2.4048412,"Adams-Onis Treaty, U.S. History, Treaties, Diplomatic Relations, James Monroe, John Quincy Adams",2
+497,8.440294,21.17277,"Clement Vallandigham, Civil War, Political speeches, American history, Opposition to the war",17
+498,-3.837372,2.8836637,"Chief Joseph, Nez Perce War, Native American history, American history, Indigenous rights",7
+499,1.5574778,-11.558868,"Virginia, Natural history, Environmental observations, Royal Society, Historical accounts, Travel accounts",0
+500,5.3499303,5.329479,"Civil Rights Movement, Montgomery Bus Boycott, Oral History, Cultural Heritage, Personal Narratives",18
+501,-2.6068184,19.475332,"Gender equality, Women's rights, Judith Sargent Stevens Murray, Historical documents, American literature",3
+502,14.226516,9.666208,"Johnstown Flood, Disaster Studies, Rehabilitation, Historical Analysis, Pennsylvania History",22
+503,15.410855,-3.3726664,"Colonial governance, Early American history, Political agreements, Pilgrims, Founding documents",-1
+504,6.564072,14.4091425,"Ida Tarbell, Standard Oil Company, History, Business, Investigative journalism",14
+505,-2.276144,20.287764,"women in politics, historical manuscripts, political history, women's rights, primary source documents",3
+506,16.12275,-3.5263956,"Shays' Rebellion, American history, Revolutionary War, U.S. history, Historical documents",27
+507,21.291683,14.979271,"Pullman Strike, Labor Unrest, Daniel De Leon, Socialism, Economic Power, Historical Context of 1894",13
+508,4.8868856,-4.9243584,"Treaties, Naval Forces, United States, Great Britain, History of the Great Lakes, 1817, International Relations",2
+509,1.2927366,-11.82337,"Virginia, Natural history, Environmental observations, Royal Society, 17th century, Travel accounts, Air quality",0
+510,5.701095,13.124506,"Stephen Crane, Maggie: A Girl of the Streets, Literature, 19th Century American Literature, Naturalism, Urban Life, Family Dynamics",-1
+511,19.775948,-4.0281363,"George Washington, Seneca Nation, Native American history, 1790s, Presidential speeches, U.S. government relations with Native Americans, Historical documents",25
+512,15.517358,-6.614032,"Stamp Act, Parliament, Colonial America, Taxation, British legislation, Historical documents",24
+513,13.260886,0.97601616,"U.S. Constitution, State Conventions, Ratification, Political History, Debates, Historical Documents",19
+514,-2.105213,8.341446,"Religious practices, Cultural exchange, Historical accounts, Diplomatic relations, Kublai Khan, Eucharistic Mystery, Christianity in Asia, RABBAN SAWMA",9
+515,-2.4546287,7.922663,"Persecution of Christians, Historical accounts, Medieval history, Cultural interactions, Political turmoil, Religious conflict, Trade and commerce in the Middle Ages",9
+516,2.0654492,15.826806,"Henry David Thoreau, Civil Disobedience, Government, Political Philosophy, Resistance to Civil Government",11
+517,10.119988,8.565854,"Digital image services, Immigration policy, Historical documents",15
+518,-3.008785,7.745359,"History of Education, Chinese Printing Methods, Matteo Ricci, 16th Century, Cultural Exchange, Technology in Education",9
+519,5.634573,14.034921,"Andrew Carnegie, Autobiography, American industrialists, Philanthropy, 19th century history",14
+520,11.135416,19.149942,"Slavery, Abolitionism, Theodore Weld, American Anti-Slavery Society, Historical Testimonies",17
+521,8.024403,11.6826105,"Jewish Immigration, New York Ghetto, Cultural Identity, Literature, Early 20th Century America",15
+522,11.864814,16.0554,"Slavery, Tobacco plantation life, Charles Ball, Personal narratives, 19th century American history, African American history, Family separation, Living conditions of slaves, Slave resistance",17
+523,-11.8680525,10.202146,"Samuel Morse, Telegraph, Morse Code, Correspondence, 19th Century Inventions, Political Support for Inventions",1
+524,12.952914,15.537416,"Slave narratives, Federal Writers' Project, History of slavery, Emancipation, Juneteenth, Personal accounts, Photographs of former slaves",17
+525,11.681925,15.584576,"American Colonization Society, Minutes of meetings, Annual reports, Slavery in the United States, Colonization of Liberia, African American history",17
+526,19.824713,4.039018,"Compromise of 1877, Presidential election, Electoral vote counting, Legislation, Constitutional law, Political history",5
+527,19.779776,-3.5335135,"George Washington, Seneca Indians, Cornplanter, Historical correspondence, Native American history, 1790s United States history",25
+528,14.338922,9.403766,"Reconstruction, American History, Political Analysis, Economic History, William Dunning",22
+529,-13.108429,9.969223,"Iron manufacturing, Malleable iron, Steel production, Industrial processes, Technological advancements, Materials science",1
+530,-6.4576654,18.643423,"Herero culture, Bantu tribes, Indigenous beliefs, African spirituality, Ndjambi Karunga, H. Vedder, Cultural practices, Religious beliefs",8
+531,21.18481,15.38884,"Pullman, Social Study, Richard T. Ely, Harper's Magazine, George M. Pullman, Pullman Palace Car Company, Company towns, Chicago labor history, Pullman strike, Industrial organization",13
+532,-3.8574514,15.550642,"Olaudah Equiano, Cultural practices, Historical narrative, Environmental context, Slavery, Religion and rituals",8
+533,13.371237,1.7458482,"Continental Congress, history, constitutional history, politics and government, legislation, primary sources",19
+534,4.722499,12.898977,"Frank Norris, The Octopus, California, Literature, 19th Century Literature, Fiction, Character Analysis, Themes in Literature",14
+535,15.571884,-7.460618,"Stamp Act, American history, British taxation, Colonial America, Legislation, Taxation without representation",24
+536,14.6553,3.5986147,"Pendleton Civil Service Act, Civil service reform, U.S. government, Political contributions, Legislation",-1
+537,8.001561,11.5152855,"Jewish Immigration, New York Ghetto, Cultural Identity, Social Conditions, Literature, Historical Fiction",15
+538,14.847786,7.5672483,"McClure's Magazine, Historical publications, American literature, Periodicals, 20th century journalism",-1
+539,23.281206,-1.2952683,"Nat Love, Biography, American History, Cowboys, Wild West",6
+540,15.654013,1.9036782,"Federal Reserve, Monetary Policy, Economic Indicators, Financial Data, COVID-19 Response, Innovation in Finance",16
+541,19.832464,-5.2655005,"George Washington, Farewell Address, U.S. History, Political speeches, Founding Fathers, American government",25
+542,15.2155905,6.1927533,"American History, Reform Movements, Political History, Social Change, Richard Hofstadter",20
+543,13.614399,18.125513,"African American history, Race relations, Cultural identity, W. E. B. Du Bois, Civil rights",17
+544,12.92281,19.359228,"Race relations, Civil rights, African American history, Frederick Douglass, Historical speeches, 19th century America",17
+545,6.238164,4.6599574,"Civil Rights Movement, Robert F. Kennedy, Martin Luther King Jr., Social Justice, Racial Tension, Historical Speeches",18
+546,-4.9620867,17.086012,"Christopher Columbus, 1492 Voyages, Transatlantic Slave Trade, European Exploration, Colonization, Impact on Native Inhabitants, Trade Routes",8
+547,5.32797,4.172208,"Cultural Heritage Preservation, Civil Rights, Oral History, Interviews, Historical Accounts",18
+548,13.980992,4.9292893,"Congressional speeches, Environmental legislation, History of environmental advocacy, Political discourse on environmental issues, Public remonstrance, U.S. history in legislative context",-1
+549,13.105156,16.963385,"African American history, Civil rights, Historical accounts, Literature, Social justice",-1
+550,5.882759,14.967005,"John D. Rockefeller, Standard Oil Company, Business history, Autobiography, American industry, Early 20th century America",14
+551,-2.3372173,8.719888,"Jerusalem, Damascus, Islamic architecture, Religious sites, Historical accounts, Cultural significance, Pilgrimage, Abrahamic religions, Medieval history, Ibn Battuta",9
+552,16.107529,5.926551,"Social Politics, Progressive Era, Daniel Rodgers, Historical Analysis, Cultural Studies",20
+553,13.834459,-4.4041314,"Thomas Jefferson, First Inaugural Address, Political Parties, Election of 1800, Federalists vs. Democratic Republicans, Peaceful Transfer of Power, U.S. History",-1
+554,10.948613,-4.394372,"American Revolution, Bernard Bailyn, Political Ideology, Historical Analysis, Colonial America",26
+555,23.683548,-1.1513054,"Exodusters, African American migration, Great Plains, historical photographs, testimonies, maps, Nicodemus, Kansas",6
+556,-3.3396702,16.723345,"Slavery, Colonialism, Transatlantic Slave Trade, Economic Impact, Personal Narratives, Historical Accounts",8
+557,16.95204,-3.9418144,"Liberty, Discussion, Conscience, Civil Establishments of Religion, Education, Dangers to American States, Debts, Internal Wars, Unequal Distribution of Property, Trade, Banks, Paper Credit, Oaths, Negro Trade, Slavery, Conclusion, Advertisement, Notes",-1
+558,13.429824,5.2703643,"Civil War, Legislation, Confederate Congress, House of Representatives, Minorities, Historical Records, Journals",-1
+559,-4.0213556,17.089401,"Colonialism, Missionary work, African societies, Cultural influence, Education, Economic development, Social dynamics, Resistance to colonialism",8
+560,3.2668006,15.674178,"Ralph Waldo Emerson, Self-Reliance, Individualism, Philosophy, Transcendentalism, Conformity, Character, Greatness",11
+561,-2.3618503,5.021008,"Indian removal, Women's rights, Native American history, Petitioning, 19th century social movements",7
+562,4.071003,-3.785525,"Pinckney's Treaty, United States, Spain, Historical Treaties, Diplomatic Relations, Boundary Agreements",2
+563,3.700184,-1.2250469,"Treaty, Guadalupe Hidalgo, Mexican-American War, Peace Treaty, Historical Document",2
+564,18.36646,-0.21205497,"Benjamin Franklin, Autobiography, American history, Self-made men, Literature, Science, Public service, Philosophy",10
+565,11.253724,15.067719,"Freedmen's Bureau, African American history, Post-Civil War, Education records, Labor agreements, Land applications",17
+566,-3.2824717,4.1434684,"Cherokee removal, Trail of Tears, historical documents, letters, speeches, treaties, photographs, Cherokee Nation, Andrew Jackson, John Ross",7
+567,19.745382,14.63346,"Labor Rights Activism, American Federation of Labor, 20th Century Labor Movement, Historical Records, Manuscript Collections",13
+568,12.677711,1.5782315,"Articles of Confederation, U.S. History, Government, Legal Framework, State Relations",19
+569,14.01619,18.672438,"Booker T. Washington, Atlanta Compromise, African American history, Race relations, Civil rights, 19th century America",17
+570,12.331874,15.513914,"Slavery, Personal narratives, Historical accounts, American history, 19th century, Civil Rights, Human rights, African American history",17
+571,24.02967,-0.79906696,"Uriah Oblinger, Family History, Civil War, Homesteading, Nebraska History, Genealogy, 19th Century American Life, Pioneer Life",6
+572,4.744462,4.5879707,"Civil Rights Movement, Oral History, Local History, New Orleans, American Folklore, Ethics in Research",18
+573,18.937874,3.9591324,"Tariff of Abominations, John Quincy Adams, John C. Calhoun, U.S. House of Representatives, 1828 presidential election, nullification doctrine",5
+574,-10.905051,8.083566,"Gravitation, Cohesion, Physics, Scientific principles, Education methods",1
+575,13.769106,-3.08307,"Virginia Declaration of Rights, George Mason, Virginia Constitution, Founding Documents, Rights and Liberties, Historical Texts",26
+576,11.058485,17.702515,"Uncle Tom's Cabin, Harriet Beecher Stowe, Slavery, American literature, 19th century literature",-1
+577,4.903572,5.5200424,"Civil Rights Movements, Oral Histories, Interviews, Discrimination in Employment, Labor Unions, Louisiana, Film and Video Records, American Folklife, Social Justice Movements",18
+578,20.493134,15.480813,"Homestead Strike, Henry Frick, Labor Relations, Pinkerton Agency, Carnegie Steel, 19th Century Labor History, Union Conflicts, Political Implications of Labor Strikes",13
+579,8.644841,9.302632,"Chinese immigration, Chinese Exclusion Act, Chinese culture, Personal narratives, Immigrant experiences, Social discrimination, Agriculture in China, Cultural perceptions of foreigners",15
+580,6.1106963,14.801371,"Ida Tarbell, Standard Oil Company, McClure's Magazine, History, Investigative Journalism",14
+581,16.787415,0.8701784,"Free Trade, Economic Advantages, Robert Fulton, Eighteenth Century Economics, War and Labor, Trade Relations",-1
+582,6.524834,-0.05885562,"American Progress, John Gast, Manifest Destiny, Westward Expansion, Allegory, Art, History of the United States",12
+583,1.6681342,-11.448065,"Virginia, Natural history, Description and travel, Environmental observations, Royal Society, 17th century science",0
+584,12.17329,-3.861046,"Thomas Jefferson, Empire of Liberty, American History, Political Philosophy, Historical Biography",26
+585,14.342188,10.230824,"Reconstruction, American History, Civil Rights, Post-Civil War America, Historical Analysis",22
+586,14.035117,4.954716,"Legislation, Virginia laws, Historical figures, Law revision, Government process, Environmental governance, Legal history",-1
+587,-10.699929,5.492137,"Nutrition, Medical theories, Historical medicine, Bodily functions, Assimilation, Health and diet, Philosophy of medicine",1
+588,12.100947,14.014521,"Slave Codes, American history, Legal history, Slavery, Civil rights",-1
+589,14.632613,13.4636755,"Supreme Court, Legal Cases, Civil Liberties, Historical Documents",23
+590,7.7484727,20.60032,"William Jennings Bryan, Cross of Gold, 1896 Democratic National Convention, Omaha Platform, Political speeches, Monetary policy, Bimetallism, Gold standard",17
+591,5.2999983,13.0744705,"Horatio Alger, Ragged Dick, 19th Century Literature, American Literature, Social Class, Urban Life",-1
+592,10.695767,8.149483,"Library Access, Image Rights, Archiving, Research Methodology, Digital Collections",15
+593,-11.495655,8.634894,"Electricity, Heat transfer, Scientific experiments, Physical forces, Education methods, Historical science education",1
+594,16.040913,3.688361,"Panic of 1873, Historical readings, Economic history, Primary sources, Financial crises",-1
+595,10.416979,8.380788,"Dupliacation services, Catalog records, Contact information, Price lists, Order forms",15
+596,19.253527,-4.6085463,"George Washington, Last Will and Testament, Historical Documents, American History, Legal History",25
+597,13.79435,4.403782,"Legislation, Minorities, Historical impact, Library of Congress, Original documents",-1
+598,3.7921555,-2.9225373,"Adams-Onis Treaty, U.S.-Spain relations, territorial boundaries, historical treaties, 19th century history",2
+599,5.1819863,5.2949696,"Civil Rights Activism, Oral Histories, Personal Accounts, New Orleans, Interviews",18

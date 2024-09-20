@@ -1,9 +1,5 @@
 streamlit
 pandas
-umap-learn
 matplotlib
-pandas
 plotly
-scikit-learn
-
 watchdog

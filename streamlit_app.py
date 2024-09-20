@@ -1,21 +1,23 @@
 import pandas as pd
 import streamlit as st
 import plotly.express as px
-import umap
-import numpy as np
-from sklearn.cluster import DBSCAN
-from sklearn.datasets import make_blobs
+
 st.set_page_config(layout="wide")
 
 
-st.title("Topic embeddings UMAP")
+st.title("Topic embeddings for primary source documents")
 
-df = pd.read_csv("data/embeddings.csv")
-fig = px.scatter(df, x='x', y='y', color='cluster', hover_data=['topic'],
-                 title="UMAP Projection with Clustering",
-                 labels={'x': 'UMAP Dimension 1', 'y': 'UMAP Dimension 2'},
-                 color_continuous_scale=px.colors.sequential.Viridis)
+df = pd.read_csv("data/topic_clustering.csv")
 
+fig = px.scatter(
+    df, 
+    x='x', 
+    y='y', 
+    color='cluster', 
+    hover_data=['topic'],
+    labels={'x': 'UMAP Dimension 1', 'y': 'UMAP Dimension 2'},
+    color_continuous_scale=px.colors.qualitative.Light24
+)
 
 fig.update_layout(
     autosize=True,
